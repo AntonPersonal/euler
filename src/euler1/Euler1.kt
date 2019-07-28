@@ -1,7 +1,7 @@
 package euler1
 
 val RANGE = 1..999
-val divisors = 3..5
+val divisors = arrayOf(3, 5)
 
 /**
  * Euler 1
